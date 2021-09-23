@@ -14,7 +14,7 @@ you don't already have it.
 
 The demonstration creates a spectrum display in the window,
 with hue varying across the horizontal axis and value across
-the vertical axis. The value is then animated repeatidly 
+the vertical axis. The value is then animated repeatedly 
 from 1.0 to 0.0 over 100 frames. The frame-rate will 
 depend on your system.
 
