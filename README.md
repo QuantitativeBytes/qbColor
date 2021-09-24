@@ -1,5 +1,5 @@
 # qbColor
-## Color space converstion (RGB to HSV) and (HSV to RGB).
+## Color space converstion - RGB to HSV and HSV to RGB.
 
 The qbColor class, defined in qbColor.h and qbColor.cpp
 provides a simple demonstration of how to implement the
